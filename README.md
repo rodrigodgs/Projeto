@@ -1,2 +1,4 @@
 # Desafio
- Referente as aulas
+ Referente as aulas.
+
+ Repositorio criado durante uma aula.
